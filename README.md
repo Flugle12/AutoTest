@@ -1,2 +1,2 @@
 # AutoTest
-repo for steik autotest's
+repo for stepik autotest's
